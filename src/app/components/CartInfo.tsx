@@ -1,3 +1,5 @@
+"use client"
+
 import Image from "next/image";
 import QuantitySelector from "./QuantitySelector";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
